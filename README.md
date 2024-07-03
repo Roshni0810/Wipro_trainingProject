@@ -1,0 +1,2 @@
+# Wipro_trainingProject
+ Wipro_Talentnext_2024_projects
